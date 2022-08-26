@@ -1,7 +1,7 @@
 {
   "type": "cosmos",
   "value": {
-    "key": "wallet",
+    "key": "ziosta",
     "chain-id": "GAIA",
     "rpc-addr": "http://167.86.87.74:23657",
     "account-prefix": "cosmos",
